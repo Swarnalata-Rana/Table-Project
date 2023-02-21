@@ -1,0 +1,47 @@
+/* *{
+background-color:rgb(223, 186, 198);    
+}
+h1{display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.choose{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.optn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+body{display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8rem;
+    background-color: chocolate;
+}
+.all{
+    background-color: rgb(66, 150, 156);
+    font-size: 25px;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
+body{
+        /* background-image:url("runu.jpeg") ; */
+        /* width: 200px;
+        height: 200px; */
+}
